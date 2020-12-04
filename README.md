@@ -28,6 +28,7 @@ terminal practice
 
 Dependencies
 -Ruby
+-Rspec
 
 To install and run
 - '$ gem install bundler'
